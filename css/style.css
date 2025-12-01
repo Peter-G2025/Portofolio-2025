@@ -194,13 +194,6 @@ body {
 
 /* Mobile Hero & Gallery */
 @media screen and (max-width: 768px) {
-    body{
-        background-image: url("../img/hero.svg");
-        background-size: cover;
-        height: 100vh; background-position: center;
-        background-size: cover; 
-        background-size: no-repeat;
-    }
 
   .main__container {
     grid-template-columns: 1fr;
@@ -259,6 +252,7 @@ body {
   }
 
 }
+
 
 
 
