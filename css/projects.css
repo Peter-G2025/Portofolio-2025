@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(/img/hero.svg);
+  background-image: url("../img/hero.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -215,4 +215,5 @@ body {
         margin: 0px;
         width: 400px;
     }
+
 }
